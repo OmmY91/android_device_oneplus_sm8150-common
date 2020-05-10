@@ -432,4 +432,7 @@
          and one pSIM) -->
     <integer name="config_num_physical_slots">2</integer>
 
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">true</bool>
+
 </resources>
